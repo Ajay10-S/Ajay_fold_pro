@@ -1,0 +1,137 @@
+ /*variable decloration*/
+ :root{
+    --primary:rgb(140, 219, 219);
+    --secondary:#497481;
+ }
+ ::selection{
+    color: #a81919;
+    background-color: #0e049c;
+ }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif; 
+}
+li{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+header{
+    min-height: 100vh;
+    background: linear-gradient(to top, rgba(95, 90, 64, 0),#669eaf),url(/images_col/paavai_view.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.header_content{
+    padding: 0 10px;
+    background-color: rgba(184, 138, 138, 0.267);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:21vh;
+}
+
+.logo{
+    height: 100px;
+}
+.nav_links{
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav_links a{
+    color: rgb(3, 44, 44);
+}
+.nav_links li::after{
+    content: '';
+    display: block;
+    background-color: #a81919;
+    height: 2px;
+    transform: scaleX(0);
+    transition:transform 500ms;
+}
+
+.nav_links li:hover::after{
+    transform: scaleX(1);
+}
+.menu{
+    width: 20px;
+    height: 3px;
+    background-color:white;
+    margin-bottom: 2px;
+    border-radius: 2px;
+ }
+
+.burger{
+    cursor: pointer;
+    display: none;
+ }
+ @media only screen and(max-width:834px) {
+    width:100%
+    
+ }
+
+ @media all and (max-width:600px){
+   .nav_links{
+    /*display:none;*/
+    position: absolute;
+    flex-direction: column;
+    background-color: rgba(184, 138, 138, 0.267);
+    right:-50px;
+    top: 21vh;
+    height: 50vh;
+    padding: 2px 0px;
+    width: 0%;
+    transition: width 500ms;
+   }
+   .burger{
+    display:block;
+   }
+ }
+.nav-show{
+    width: 100%;
+    right: 0px ;
+ }
+ .text-area{
+    color:aliceblue;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    transition: all 300ms;
+
+ }
+ .text-area h1{
+    margin:1rem 0;
+ }
+ .btn{
+    background-color:blue ;
+    display:inline-block;
+    color: aliceblue;
+    padding: 10px 5px;
+    transition: 300ms;
+
+ }
+.btn:hover{
+    transform: translateY(-5px);
+}
+.textareahide{
+    left:-10rem;
+}
+
+
+
+
+
+
