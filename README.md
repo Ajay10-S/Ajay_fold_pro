@@ -21,7 +21,9 @@ Computer Science Engineer
 <img height="50" src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> 
 
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay10-S&theme=dark&show_icons=true&&hide=issues,contribs)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AjayVimal?theme=dark&font=Modern%20Antiqua&ext=heatmap)
+
 [![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajay10-S&bg_color=12080d&color=a5409f&line=a5409f&point=3c3939&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
