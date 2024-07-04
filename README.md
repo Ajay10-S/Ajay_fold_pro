@@ -8,8 +8,7 @@ Computer Science Engineer
 - 🤔 I’m curious to learn new things
 - 📫 How to reach me :
   
-<br /> 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://www.ajay09siva@gmail.com)
+<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://www.ajay09siva@gmail.com)
 - ajay09siva@gmail.com
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajay-s-505875249)
