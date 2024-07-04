@@ -13,6 +13,7 @@ Computer Science Engineer
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajay-s-505875249)
 - https://www.linkedin.com/in/ajay-s-505875249
+  
 
 - ⚡ Fun fact: I know to write and read Hindi but I can't Understand it.
 
