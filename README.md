@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Ajay and my simple portfolio
+## Hi there 👋 It's me Ajay 
 
 Computer Science Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -16,6 +16,8 @@ Computer Science Engineer
 
 ### IDE and Tools I Use
 <img height="50" src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> 
+
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay_fold_pro&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 
