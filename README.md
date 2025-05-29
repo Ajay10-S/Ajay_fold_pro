@@ -28,7 +28,6 @@ Computer Science Engineer
 
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay10-S&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajay10-S&bg_color=12080d&color=a5409f&line=a5409f&point=3c3939&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
